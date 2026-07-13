@@ -1,0 +1,17 @@
+# Binaries
+/browctl
+/browctld
+/bin/
+
+# Go
+*.test
+*.out
+/coverage.*
+
+# Local runtime/profile data
+/.browctl/
+
+# OS/editor
+.DS_Store
+.idea/
+.vscode/
