@@ -7,12 +7,12 @@ import (
 	"testing"
 	"time"
 
-	"github.com/dt/browctl/browser"
-	chromedriver "github.com/dt/browctl/driver/chromedp"
-	"github.com/dt/browctl/profile"
-	"github.com/dt/browctl/protocol"
-	"github.com/dt/browctl/tab"
-	"github.com/dt/browctl/testserver"
+	"github.com/dtonair/browctl/browser"
+	chromedriver "github.com/dtonair/browctl/driver/chromedp"
+	"github.com/dtonair/browctl/profile"
+	"github.com/dtonair/browctl/protocol"
+	"github.com/dtonair/browctl/tab"
+	"github.com/dtonair/browctl/testserver"
 )
 
 func TestEngineChromeWorkflow(t *testing.T) {

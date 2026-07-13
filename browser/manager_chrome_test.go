@@ -7,7 +7,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/dt/browctl/profile"
+	"github.com/dtonair/browctl/profile"
 )
 
 func TestManagerStartStopChrome(t *testing.T) {

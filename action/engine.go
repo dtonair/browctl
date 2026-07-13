@@ -4,9 +4,9 @@ import (
 	"context"
 	"time"
 
-	"github.com/dt/browctl/driver"
-	"github.com/dt/browctl/protocol"
-	"github.com/dt/browctl/tab"
+	"github.com/dtonair/browctl/driver"
+	"github.com/dtonair/browctl/protocol"
+	"github.com/dtonair/browctl/tab"
 )
 
 type TabRunner interface {

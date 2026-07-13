@@ -5,10 +5,10 @@ import (
 	"errors"
 	"testing"
 
-	"github.com/dt/browctl/driver"
-	chromedriver "github.com/dt/browctl/driver/chromedp"
-	"github.com/dt/browctl/protocol"
-	"github.com/dt/browctl/tab"
+	"github.com/dtonair/browctl/driver"
+	chromedriver "github.com/dtonair/browctl/driver/chromedp"
+	"github.com/dtonair/browctl/protocol"
+	"github.com/dtonair/browctl/tab"
 )
 
 type fakeRunner struct {

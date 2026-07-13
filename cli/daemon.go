@@ -11,9 +11,9 @@ import (
 	"syscall"
 	"time"
 
-	"github.com/dt/browctl/ipc"
-	"github.com/dt/browctl/paths"
-	"github.com/dt/browctl/protocol"
+	"github.com/dtonair/browctl/ipc"
+	"github.com/dtonair/browctl/paths"
+	"github.com/dtonair/browctl/protocol"
 	"github.com/spf13/cobra"
 )
 

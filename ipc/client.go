@@ -8,7 +8,7 @@ import (
 	"net"
 	"time"
 
-	"github.com/dt/browctl/protocol"
+	"github.com/dtonair/browctl/protocol"
 )
 
 type Client struct {

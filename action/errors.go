@@ -6,8 +6,8 @@ import (
 	"strings"
 
 	cdp "github.com/chromedp/chromedp"
-	chromedriver "github.com/dt/browctl/driver/chromedp"
-	"github.com/dt/browctl/protocol"
+	chromedriver "github.com/dtonair/browctl/driver/chromedp"
+	"github.com/dtonair/browctl/protocol"
 )
 
 func TranslateError(err error) *protocol.Error {

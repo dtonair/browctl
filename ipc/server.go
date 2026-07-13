@@ -11,7 +11,7 @@ import (
 	"path/filepath"
 	"sync"
 
-	"github.com/dt/browctl/protocol"
+	"github.com/dtonair/browctl/protocol"
 )
 
 // Handler processes a single protocol request and returns exactly one response.

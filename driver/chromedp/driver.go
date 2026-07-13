@@ -9,7 +9,7 @@ import (
 
 	cdproto "github.com/chromedp/cdproto/cdp"
 	cdp "github.com/chromedp/chromedp"
-	"github.com/dt/browctl/driver"
+	"github.com/dtonair/browctl/driver"
 )
 
 type Driver struct{}

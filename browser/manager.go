@@ -13,8 +13,8 @@ import (
 
 	cdpbrowser "github.com/chromedp/cdproto/browser"
 	"github.com/chromedp/chromedp"
-	"github.com/dt/browctl/profile"
-	"github.com/dt/browctl/protocol"
+	"github.com/dtonair/browctl/profile"
+	"github.com/dtonair/browctl/protocol"
 )
 
 type Manager struct {

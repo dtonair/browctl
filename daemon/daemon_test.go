@@ -5,7 +5,7 @@ import (
 	"path/filepath"
 	"testing"
 
-	"github.com/dt/browctl/protocol"
+	"github.com/dtonair/browctl/protocol"
 )
 
 func TestHandlePingStatusAndUnknownCommand(t *testing.T) {

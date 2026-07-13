@@ -6,8 +6,8 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/dt/browctl/daemon"
-	"github.com/dt/browctl/paths"
+	"github.com/dtonair/browctl/daemon"
+	"github.com/dtonair/browctl/paths"
 )
 
 func main() {

@@ -6,7 +6,7 @@ import (
 	"fmt"
 	"io"
 
-	"github.com/dt/browctl/protocol"
+	"github.com/dtonair/browctl/protocol"
 	"github.com/spf13/cobra"
 )
 

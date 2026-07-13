@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/dt/browctl/cli"
-	"github.com/dt/browctl/protocol"
+	"github.com/dtonair/browctl/cli"
+	"github.com/dtonair/browctl/protocol"
 )
 
 func main() {

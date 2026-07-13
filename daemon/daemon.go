@@ -6,15 +6,15 @@ import (
 	"fmt"
 	"sync"
 
-	"github.com/dt/browctl/action"
-	"github.com/dt/browctl/browser"
-	chromedriver "github.com/dt/browctl/driver/chromedp"
-	"github.com/dt/browctl/ipc"
-	"github.com/dt/browctl/paths"
-	"github.com/dt/browctl/profile"
-	"github.com/dt/browctl/protocol"
-	"github.com/dt/browctl/tab"
-	"github.com/dt/browctl/version"
+	"github.com/dtonair/browctl/action"
+	"github.com/dtonair/browctl/browser"
+	chromedriver "github.com/dtonair/browctl/driver/chromedp"
+	"github.com/dtonair/browctl/ipc"
+	"github.com/dtonair/browctl/paths"
+	"github.com/dtonair/browctl/profile"
+	"github.com/dtonair/browctl/protocol"
+	"github.com/dtonair/browctl/tab"
+	"github.com/dtonair/browctl/version"
 )
 
 type Daemon struct {

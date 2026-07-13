@@ -5,9 +5,9 @@ import (
 	"testing"
 
 	"github.com/chromedp/chromedp"
-	"github.com/dt/browctl/driver"
-	chromedriver "github.com/dt/browctl/driver/chromedp"
-	"github.com/dt/browctl/protocol"
+	"github.com/dtonair/browctl/driver"
+	chromedriver "github.com/dtonair/browctl/driver/chromedp"
+	"github.com/dtonair/browctl/protocol"
 )
 
 func TestTranslateError(t *testing.T) {

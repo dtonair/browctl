@@ -3,8 +3,8 @@ package action
 import (
 	"strings"
 
-	"github.com/dt/browctl/driver"
-	"github.com/dt/browctl/protocol"
+	"github.com/dtonair/browctl/driver"
+	"github.com/dtonair/browctl/protocol"
 )
 
 func ParseWaitPolicy(raw string) (driver.WaitPolicy, error) {

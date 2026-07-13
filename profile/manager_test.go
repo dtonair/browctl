@@ -6,7 +6,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/dt/browctl/protocol"
+	"github.com/dtonair/browctl/protocol"
 )
 
 func TestCreateInspectListDelete(t *testing.T) {

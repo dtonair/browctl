@@ -1,4 +1,4 @@
-module github.com/dt/browctl
+module github.com/dtonair/browctl
 
 go 1.24.5
 

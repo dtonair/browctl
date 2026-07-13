@@ -13,7 +13,7 @@ import (
 	"github.com/chromedp/cdproto/page"
 	"github.com/chromedp/cdproto/target"
 	"github.com/chromedp/chromedp"
-	"github.com/dt/browctl/protocol"
+	"github.com/dtonair/browctl/protocol"
 )
 
 type BrowserContextProvider interface {

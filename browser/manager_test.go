@@ -7,8 +7,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/dt/browctl/profile"
-	"github.com/dt/browctl/protocol"
+	"github.com/dtonair/browctl/profile"
+	"github.com/dtonair/browctl/protocol"
 )
 
 func TestStopStaleRuntimeSurfacesBrowserCrashed(t *testing.T) {

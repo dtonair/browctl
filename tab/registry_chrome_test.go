@@ -7,8 +7,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/dt/browctl/browser"
-	"github.com/dt/browctl/profile"
+	"github.com/dtonair/browctl/browser"
+	"github.com/dtonair/browctl/profile"
 )
 
 func TestRegistryOpenListFocusCloseChrome(t *testing.T) {

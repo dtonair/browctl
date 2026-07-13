@@ -3,7 +3,7 @@ package chromedp
 import (
 	"fmt"
 
-	"github.com/dt/browctl/driver"
+	"github.com/dtonair/browctl/driver"
 )
 
 type ErrNoSuchElement struct {
